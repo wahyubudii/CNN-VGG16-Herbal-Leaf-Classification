@@ -14,4 +14,4 @@ Penelitian ini menerapkan metode transfer learning dalam pembuatan proposed meth
 
 ## Dataset
 Database yang kami gunakan dalam penelitian ini adalah berikut: 
-<a href=https://data.mendeley.com/datasets/s82j8dh4rr/1>Indonesian Herb Leaf Dataset 3500</a>
+<a href=https://data.mendeley.com/datasets/s82j8dh4rr/1 target="_blank">Indonesian Herb Leaf Dataset 3500</a>
