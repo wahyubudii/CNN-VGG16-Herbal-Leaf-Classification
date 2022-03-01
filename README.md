@@ -13,5 +13,5 @@ Tanaman herbal mempunyai banyak manfaat bagi kehidupan manusia dalam berbagai as
 Penelitian ini menerapkan metode transfer learning dalam pembuatan proposed method. Architecture model yang digunakan yakni VGG16 yang selanjutnya akan ditambah dengan arsitektur layer baru pada bagian Fully Connected Layer yaitu output layer untuk menyesuaikan dengan jumlah kelas dataset yang diklasifikasikan.
 
 ## Dataset
-Database yang kami gunakan dalam penelitian ini adalah berikut: 
+Dataset yang kami gunakan dalam penelitian ini adalah dataset daun herbal yang dapat diakses di link berikut: 
 <a href=https://data.mendeley.com/datasets/s82j8dh4rr/1 target="_blank">Indonesian Herb Leaf Dataset 3500</a>
